@@ -16,9 +16,9 @@
 
 ## Features
 
-- [Admin Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/3.2%20GRS%20Admin%20Manual.doc)
-- [Complianant Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/3.1%20GRS-Complianant-Manual.doc)
-- [GRO & Appeal Officer Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/3.3%20GRS%20GRO%20_%20Appeal%20Officer%20Manual.doc)
+- [Complianant Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.1%20GRS-Complianant-Manual/3.1%20GRS-Complianant-Manual.md)
+- [Admin Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.2%20GRS%20Admin%20Manual/3.2%20GRS%20Admin%20Manual.md)
+- [GRO & Appeal Officer Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.3%20GRS%20GRO%20_%20Appeal%20Officer%20Manual/3.3%20GRS%20GRO%20_%20Appeal%20Officer%20Manual.md)
 
 
 ## Prerequisites
